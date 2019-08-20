@@ -1,0 +1,3 @@
+Para rodar a api foi criado no servidor json. 
+Ele pode ser obtido com a seguinte URL: npm install -g json-server
+Para executar o servidor json (onde está a API) basta executar o seguinte: json-server --watch db.json

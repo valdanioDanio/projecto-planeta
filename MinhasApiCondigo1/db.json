@@ -1,0 +1,71 @@
+{
+    "docentes": [{
+            "id": 1,
+            "nome": "Nuno Branco",
+            "Categoria": "Professor Catedrático",
+            "foto": "./assets/img/professor/1.jpg"
+        },
+        {
+            "id": 2,
+            "nome": "Padoca Calado",
+            "Categoria": "Professor Auxiliar",
+            "foto": "./assets/img/professor/2.jpg"
+        },
+        {
+            "id": 3,
+            "nome": "Vicente Lopes",
+            "Categoria": "Assistente Estagiario",
+            "foto": "./assets/img/professor/3.jpg"
+        },
+        {
+            "id": 4,
+            "nome": "Fabia Dikiefu",
+            "Categoria": "Professor Titular",
+            "foto": "./assets/img/professor/4.jpg"
+        }
+    ],
+    "Estudantes": [{
+            "id": 1,
+            "nome": "Paulino Moras",
+            "curso": "Ciências da Computação",
+            "foto": "./assets/img/aluno/1.jpg"
+        },
+        {
+            "id": 2,
+            "nome": "Victorino Pedro",
+            "curso": "Ciências da Computação",
+            "foto": "./assets/img/aluno/2.jpg"
+        },
+        {
+            "id": 3,
+            "nome": "Valdanio Alberto",
+            "curso": "Matemática Aplicada a Finanças",
+            "foto": "./assets/img/aluno/3.jpg"
+        },
+        {
+            "id": 3,
+            "nome": "Paulina Morais",
+            "curso": "Pedagógia de Paulo Freire",
+            "foto": "./assets/img/aluno/4.jpg"
+        },
+        {
+            "id": 4,
+            "nome": "Solange Kiafuca",
+            "curso": "Pedagógia de Paulo Freire",
+            "foto": "./assets/img/aluno/5.jpg"
+        }
+    ],
+    "Cursos": [{
+            "id": 1,
+            "curso": "Ciências da Computação"
+        },
+        {
+            "id": 3,
+            "curso": "Matemática Aplicada a Finanças"
+        },
+        {
+            "id": 3,
+            "curso": "Pedagógia de Paulo Freire"
+        }
+    ]
+}
